@@ -28,8 +28,8 @@ Last edited: 5-8-2012 by Erik Lane
   http://dsscircuits.com/articles/arduino-i2c-master-library.html
 */
 #include "ht1632c.h"
-#include <I2C.h>
-#include <Regexp.h>
+#include "I2C.h"
+#include "Regexp.h"
 
 //address for I2C-serial bridge chip
 const uint8_t address = 0x48;

@@ -1,6 +1,6 @@
 #ifdef FONT_4x6
 // -Misc-Fixed-Medium-R-Normal--6-60-75-75-C-40-ISO10646-1
-uint8_t PROGMEM font_4x6[95][4] = {
+const uint8_t PROGMEM font_4x6[95][4] = {
 {0x00,0x00,0x00,0x00}, //   
 {0x00,0x3a,0x00,0x00}, // ! 
 {0x30,0x00,0x30,0x00}, // " 
@@ -299,7 +299,7 @@ uint8_t PROGMEM font_5x8[95][5] = {
 };
 #endif
 #ifdef FONT_5x7W
-uint8_t PROGMEM font_5x7w[95][5] = {
+const uint8_t PROGMEM font_5x7w[95][5] = {
 {0x00,0x00,0x00,0x00,0x00}, //
 {0x00,0x00,0xfa,0x00,0x00}, // !
 {0x00,0xe0,0x00,0xe0,0x00}, // "
@@ -1098,7 +1098,7 @@ uint16_t PROGMEM font_6x9[95][6] = {
 #endif
 #ifdef FONT_7x13
 // -Misc-Fixed-Medium-R-Normal--13-120-75-75-C-70-ISO10646-1
-uint16_t PROGMEM font_7x13[95][7] = {
+const uint16_t PROGMEM font_7x13[95][7] = {
 {0x0000,0x0000,0x0000,0x0000,0x0000,0x0000,0x0000}, //   
 {0x0000,0x0000,0x0000,0x07f4,0x0000,0x0000,0x0000}, // ! 
 {0x0000,0x0000,0x0700,0x0000,0x0700,0x0000,0x0000}, // " 
@@ -2298,7 +2298,7 @@ uint16_t PROGMEM font_8x16b[95][8] = {
 
 #ifdef FONT_4x6_Mirrored
 // -Misc-Fixed-Medium-R-Normal--6-60-75-75-C-40-ISO10646-1
-uint8_t PROGMEM font_4x6m[95][4] = {
+const uint8_t PROGMEM font_4x6m[95][4] = {
 {0x00,0x00,0x00,0x00}, //   
 {0x00,0x17,0x00,0x00}, // ! 
 {0x03,0x00,0x03,0x00}, // " 
@@ -2398,7 +2398,7 @@ uint8_t PROGMEM font_4x6m[95][4] = {
 #endif
 
 #ifdef FONT_5x7W_Mirrored
-uint8_t PROGMEM font_5x7wm[95][5] = {
+const uint8_t PROGMEM font_5x7wm[95][5] = {
 {0x00,0x00,0x00,0x00,0x00}, //
 {0x00,0x00,0xbe,0x00,0x00}, // !
 {0x00,0x0e,0x00,0x0e,0x00}, // "

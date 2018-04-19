@@ -167,7 +167,7 @@ public:
     void plot(byte x, byte y, byte color);
     byte getpixel(byte x, byte y);
     byte putchar(uint8_t x, uint8_t y, char c, byte color = GREEN, byte attr = 0);
-    void putbitmap(uint8_t x, uint8_t y, prog_uint16_t *bitmap, byte w, byte h, byte color);
+    void putbitmap(uint8_t x, uint8_t y, uint16_t *bitmap, byte w, byte h, byte color);
     void hscrolltext(int y, char *text, byte color, int delaytime, int times = 1, byte dir = LEFT);
     void vscrolltext(int x, char *text, byte color, int delaytime, int times = 1, byte dir = UP);
     void putInt(uint8_t y, int num, byte color, boolean left);
@@ -192,8 +192,8 @@ public:
     byte x_max;
     byte y_max;
     boolean bicolor;
-    prog_uint8_t *font;
-    prog_uint16_t *wfont;
+    uint8_t *font;
+    uint16_t *wfont;
     byte font_width;
     byte font_height;
     byte x_cur;
