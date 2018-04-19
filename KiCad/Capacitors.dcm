@@ -1,0 +1,193 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/13/2009 11:47:05 PM
+#
+$CMP 1000uF_ELEC_5MM_25V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160009_Nichicon_Aluminum_Electrolytic_Cap.pdf
+$ENDCMP
+#
+$CMP 100nF_0402_16V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160019_GRM155R71C104KA88.pdf
+$ENDCMP
+#
+$CMP 100nF_0402_16V_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160019_GRM155R71C104KA88.pdf
+$ENDCMP
+#
+$CMP 100nF_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160005_GRM188R71H104KA93.pdf
+$ENDCMP
+#
+$CMP 100nF_0603_50V_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160005_GRM188R71H104KA93.pdf
+$ENDCMP
+#
+$CMP 100nF_0805_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160000_AVX_X7R_Capacitors.pdf
+$ENDCMP
+#
+$CMP 100nF_15MM_630VDC
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160021_Vishay_Interference_Film_Capacitors.pdf
+$ENDCMP
+#
+$CMP 100nF_27.5MM_1000VDC
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160025_MKP_B32612_14.pdf
+$ENDCMP
+#
+$CMP 100nF_37.5MM_1000VDC
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160025_MKP_B32612_14.pdf
+$ENDCMP
+#
+$CMP 100pF_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160027_GRM1885C1H101JA01.pdf
+$ENDCMP
+#
+$CMP 100uF_ELEC_SMD_16V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160023_Nichicon_Aluminum_Electrolytic_Cap_WX_Series.pdf
+$ENDCMP
+#
+$CMP 100uF_TANT_10V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160013_AVX_TAJ_Series.pdf
+$ENDCMP
+#
+$CMP 10nF_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160034_GCM188R71H103KA37.pdf
+$ENDCMP
+#
+$CMP 10nF_0805_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160001_KEMET_X7R_Capacitors.pdf
+$ENDCMP
+#
+$CMP 10uF_TANT_16V_CASE_A
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160039_AVX_general_purpose_tantalum_capacitors.pdf
+$ENDCMP
+#
+$CMP 1nF_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160007_Murata_chip_monolithic_ceramic_capacitors.pdf
+$ENDCMP
+#
+$CMP 1uF_0402_10V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160017_GRM155R61A105KE15.pdf
+$ENDCMP
+#
+$CMP 1uF_0402_10V_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160017_GRM155R61A105KE15.pdf
+$ENDCMP
+#
+$CMP 1uF_0603_16V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160003_Murata_chip_monolithic_ceramic_capacitors_automotive.pdf
+$ENDCMP
+#
+$CMP 1uF_0603_25V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160015_Kemet_Ceramic_Chip_Capacitors.pdf
+$ENDCMP
+#
+$CMP 1uF_0603_25V_X7R
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160030_GRM188R71E105KA12.pdf
+$ENDCMP
+#
+$CMP 22pF_0402_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160018_GCM1555C1H220JZ13.pdf
+$ENDCMP
+#
+$CMP 22pF_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160006_GRM1885C1H220JA01.pdf
+$ENDCMP
+#
+$CMP 22pF_0603_50V_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160006_GRM1885C1H220JA01.pdf
+$ENDCMP
+#
+$CMP 22uF_ELEC_2MM_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160022_Panaosnic_Electrolitic_Aluminum.pdf
+$ENDCMP
+#
+$CMP 22uF_TANT_10V_CASE_B
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160040_AVX_Low_ESR_Tantalum.pdf
+$ENDCMP
+#
+$CMP 22uF_TANT_25V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160002_KEMET_Tantalum_T491_Series_Capacitors.pdf
+$ENDCMP
+#
+$CMP 22uF_TANT_25V_CASE_D
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160002_KEMET_Tantalum_T491_Series_Capacitors.pdf
+$ENDCMP
+#
+$CMP 2n2_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160028_GRM188R71H222KA01.pdf
+$ENDCMP
+#
+$CMP 2u2_0402_6V3
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160016_Tayio_Yuden_Standard_multilayer_ceramic_capacitors.pdf
+$ENDCMP
+#
+$CMP 2u2_0402_6V3_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160016_Tayio_Yuden_Standard_multilayer_ceramic_capacitors.pdf
+$ENDCMP
+#
+$CMP 2u2_0603_10V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160004_GRM188R71A225KE15.pdf
+$ENDCMP
+#
+$CMP 2u2_0805_25V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160008_GRM21BR71E225KA73.pdf
+$ENDCMP
+#
+$CMP 3n3_0603_100V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160000_AVX_X7R_Capacitors.pdf
+$ENDCMP
+#
+$CMP 47uF_ELEC_SMD_16V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160023_Nichicon_Aluminum_Electrolytic_Cap_WX_Series.pdf
+$ENDCMP
+#
+$CMP 4n7_0603_50V
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160007_Murata_chip_monolithic_ceramic_capacitors.pdf
+$ENDCMP
+#
+$CMP 4U7_TANT_10V
+D Condensateur polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160002_KEMET_Tantalum_T491_Series_Capacitors.pdf
+$ENDCMP
+#
+$CMP 4U7_TANT_10V_v1
+D Condensateur non polarise
+F C:/Personal/PartsManagement/02_Datasheets/02 Capacitors/DS_160035_KEMET_Tantalum_T498_Series_Capacitors.pdf
+$ENDCMP
+#
+#End Doc Library

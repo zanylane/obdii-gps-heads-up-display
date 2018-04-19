@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/31/2009 5:05:21 PM
+#
+$CMP 220Ohm@100MHz
+F C:/Personal/PartsManagement/02_Datasheets/03 Inductors/DS_170000_Inductor_Murata_220Ohm_100MHz.pdf
+$ENDCMP
+#
+$CMP 40Ohm@100MHz
+F C:/Personal/PartsManagement/02_Datasheets/03 Inductors/DS_170004_MI0805K400R-10-B.pdf
+$ENDCMP
+#
+#End Doc Library

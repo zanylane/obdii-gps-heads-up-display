@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/14/2009 12:27:37 PM
+#
+$CMP 11LC160T
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190002_11LC160.pdf
+$ENDCMP
+#
+$CMP 25LC1024
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190003_25LC1204.pdf
+$ENDCMP
+#
+$CMP AT25DF081
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190001_AT25DF081.pdf
+$ENDCMP
+#
+$CMP AT26DF081A
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190004_AT26DF081A.pdf
+$ENDCMP
+#
+$CMP AT45DB161_VDFN
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190000_AT45DB161.pdf
+$ENDCMP
+#
+$CMP AT45DB642D_CASON8
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190005_AT45DB642D.pdf
+$ENDCMP
+#
+$CMP AT88SC6416C
+F C:/Personal/PartsManagement/02_Datasheets/09 Memories/DS_190006_AT88SC6416C.pdf
+$ENDCMP
+#
+#End Doc Library

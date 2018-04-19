@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3  Date: 01/06/2009 11:17:25
+#
+# PAD_1MM/1.4MM
+#
+DEF PAD_1MM/1.4MM PAD 0 40 N N 1 F N
+F0 "PAD" 0 300 60 H V C CNN
+F1 "PAD_1MM/1.4MM" 0 200 60 H V C CNN
+F2 "PAD_1MM/1.4MM" 0 0 50 H I C CNN
+F4 "~" 0 0 50 H I C CNN "Internal_PN"
+F5 "Metallic Hole, 1mm drill, 1.4mm pad" 0 0 50 H I C CNN "Description"
+DRAW
+C 0 0 141 0 1 0 N
+X 1 1 0 0 0 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PAD_3MM/4MM
+#
+DEF PAD_3MM/4MM PAD 0 40 N N 1 F N
+F0 "PAD" 0 300 60 H V C CNN
+F1 "PAD_3MM/4MM" 0 200 60 H V C CNN
+F2 "PAD_3MM/4MM" 0 0 50 H I C CNN
+F4 "~" 0 0 50 H I C CNN "Internal_PN"
+F5 "Metallic Hole, 3mm drill, 4mm pad" 0 0 50 H I C CNN "Description"
+DRAW
+C 0 0 141 0 1 0 N
+X 1 1 0 0 0 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

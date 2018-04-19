@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/5/2009 10:44:18 AM
+#
+$CMP LM339PWR
+F C:/Personal/PartsManagement/02_Datasheets/07 Opamps/DS_220001_LM239A_Quad_Comparator.pdf
+$ENDCMP
+#
+$CMP TLC2274CPW
+F C:/Personal/PartsManagement/02_Datasheets/07 Opamps/DS_220000_TLC2274.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,67 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/1/2009 1:51:14 PM
+#
+$CMP DS90C124
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140006_DS90C241and124 Oct2006.pdf
+$ENDCMP
+#
+$CMP DS90LV001TM
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140007_DS90LV001.pdf
+$ENDCMP
+#
+$CMP DS90UR124
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140008_DS90UR241and124 _8Jan2008.pdf
+$ENDCMP
+#
+$CMP DS90UR241
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140008_DS90UR241and124 _8Jan2008.pdf
+$ENDCMP
+#
+$CMP FSBB20CH60C
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140005_FSBB20CH60C_smart_power_module.pdf
+$ENDCMP
+#
+$CMP FT232R
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140014_FT232R.pdf
+$ENDCMP
+#
+$CMP FT245R
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140000_FT245R.pdf
+$ENDCMP
+#
+$CMP LMX9838
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140002_LMX9838.pdf
+$ENDCMP
+#
+$CMP LMX9838_V2
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140002_LMX9838.pdf
+$ENDCMP
+#
+$CMP LTSR_15_NP
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140004_LTSR 15NP E Current sensor.pdf
+$ENDCMP
+#
+$CMP MAX3221_SSOP16
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140015_max3221.pdf
+$ENDCMP
+#
+$CMP MAX3225_SSOP20
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140016_MAX3224-MAX3245.pdf
+$ENDCMP
+#
+$CMP PKLCS1212E4001-R1
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140011_Buzzer_SMD_Murata.pdf
+$ENDCMP
+#
+$CMP RN_41
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140003_RN-41.pdf
+$ENDCMP
+#
+$CMP ULN2803
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140001_ULN2803.pdf
+$ENDCMP
+#
+$CMP ULN2803AFWG
+F C:/Personal/PartsManagement/02_Datasheets/19 Miscelaneous/DS_140012_ULN2803.pdf
+$ENDCMP
+#
+#End Doc Library

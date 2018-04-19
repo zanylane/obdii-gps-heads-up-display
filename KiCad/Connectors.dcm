@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/5/2009 9:18:44 PM
+#
+$CMP CONN_DB9_FEM_90DEG_PCB
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110015_Tyco_DB9_Right_angle_Female_PCB.pdf
+$ENDCMP
+#
+$CMP CONN_DB9_FEM_90DEG_PCB_v1
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110015_Tyco_DB9_Right_angle_Female_PCB.pdf
+$ENDCMP
+#
+$CMP CONN_PCB_RJ45_TYCO
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110014_RJ45_Jack_Tyco.pdf
+$ENDCMP
+#
+$CMP CONN_PCB_RJ45_TYCO_v1
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110014_RJ45_Jack_Tyco.pdf
+$ENDCMP
+#
+$CMP CONN_SMART_CARD_8POS_7112S0825X01LF
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110024_7112S08x5X01.pdf
+$ENDCMP
+#
+$CMP HEADER_10PIN_DIL_SMD_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110022_MOLEX_HEADER_10PIN_DIL_SMD_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_14PIN_DIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110010_Tyco_14_pin_DIL_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_16PIN_DIL_SMD_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110020_FCI_16PIN_DIL_HEADER_SMD_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_18PIN_DIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110019_MOLEX_18PIN_DIL_HEADER_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_20PIN_DIL_SMD_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110016_Tyco_32_pin_DIL_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_2PIN_SIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110026_TLW-MKT.pdf
+$ENDCMP
+#
+$CMP HEADER_32PIN_DIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110016_Tyco_32_pin_DIL_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_40PIN_DIL_SMD_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110021_FCI_40PIN_DIL_HEADER_SMD_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_4PIN_DIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110016_Tyco_32_pin_DIL_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_4PIN_SIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110005_Tyco_4_pin_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_50PIN_SIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110009_Tyco_50_pin_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_6PIN_SIL_2.54MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110006_Tyco_6_pin_header_2.54MM.pdf
+$ENDCMP
+#
+$CMP HEADER_6PIN_SIL_2.54MM_v1
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110029_TSW-MK.pdf
+$ENDCMP
+#
+$CMP MINI_DIN_SPECIAL_6POS_FEMALE
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110002_MD-60SV.pdf
+$ENDCMP
+#
+$CMP MINI_DIN_SPECIAL_6POS_MALE
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110003_MD-60.pdf
+$ENDCMP
+#
+$CMP MOLEX_DIMM_100
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110004_MolexDIMM-100-876301001_sd.pdf
+$ENDCMP
+#
+$CMP PJ-031CH
+D datasheet
+K USB Connector
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110028_PJ-031CH.pdf
+$ENDCMP
+#
+$CMP TERM_BLOCK_2POS_5MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110008_IMO_TERMINAL_BLOCK_2POS_5MM.pdf
+$ENDCMP
+#
+$CMP TERM_BLOCK_5POS_5MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110007_Tyco_TERMINAL_BLOCK_5POS_5MM.pdf
+$ENDCMP
+#
+$CMP TERM_BLOCK_5POS_7.5MM
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110018_OnShore_TERMINAL_BLOCK_5POS_7.5MM.pdf
+$ENDCMP
+#
+$CMP USB_CONN_TYPE_B
+D datasheet
+K USB Connector
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110000_USB_Type_B_Connector.pdf
+$ENDCMP
+#
+$CMP USB_CONN_TYPE_B_v1
+D datasheet
+K USB Connector
+F C:/Personal/PartsManagement/02_Datasheets/11 Connectors/DS_110000_USB_Type_B_Connector.pdf
+$ENDCMP
+#
+#End Doc Library

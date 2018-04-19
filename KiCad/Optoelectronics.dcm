@@ -1,0 +1,35 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/16/2009 3:36:42 PM
+#
+$CMP CNY17-3.300
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120000_CNYxxx_Optocoupler_datasheet.pdf
+$ENDCMP
+#
+$CMP LED_0603_GREEN
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120007_Rohm_SML-D12x8_Series.pdf
+$ENDCMP
+#
+$CMP LED_0603_RED
+F C:\Personal\PartsManagement\02_Datasheets\12 Optoelectronics\DS_120002_ASMT-RR45.pdf
+$ENDCMP
+#
+$CMP LED_0603_RED_v1
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120006_Rohm_SML-310_Series.pdf
+$ENDCMP
+#
+$CMP LED_3MM_GREEN
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120001_Farnell_LED_3mm.pdf
+$ENDCMP
+#
+$CMP LED_3MM_RED
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120001_Farnell_LED_3mm.pdf
+$ENDCMP
+#
+$CMP LED_3MM_RED_v1
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120001_Farnell_LED_3mm.pdf
+$ENDCMP
+#
+$CMP LED_3MM_YELLOW
+F C:/Personal/PartsManagement/02_Datasheets/12 Optoelectronics/DS_120001_Farnell_LED_3mm.pdf
+$ENDCMP
+#
+#End Doc Library

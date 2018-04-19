@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/5/2009 7:43:36 AM
+#
+$CMP BAS70LT1G
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230000_BAS70LT1-D.pdf
+$ENDCMP
+#
+$CMP BAT46SFILM
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230003_BAT46SFILM.pdf
+$ENDCMP
+#
+$CMP BAT54LT1G
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230004_BAT54LT1-D_onsemi.pdf
+$ENDCMP
+#
+$CMP ES2D
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230001_ES2D_FairchildSemiconductors.pdf
+$ENDCMP
+#
+$CMP MBR0530T1G
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230002_MBR0530T1-D.pdf
+$ENDCMP
+#
+$CMP MBR0530T1G_v1
+D Diode schottky
+K DEV DIODE
+F C:/Personal/PartsManagement/02_Datasheets/04 Diodes/DS_230002_MBR0530T1-D.pdf
+$ENDCMP
+#
+#End Doc Library

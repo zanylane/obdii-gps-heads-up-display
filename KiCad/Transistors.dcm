@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/28/2009 12:06:08 AM
+#
+$CMP 2N7002_SOT23
+F C:/Personal/PartsManagement/02_Datasheets/06 Transistors/DS_240002_2N7002.pdf
+$ENDCMP
+#
+$CMP BC847_SOT23
+F C:\Personal\PartsManagement\02_Datasheets\06 Transistors\DS_240000_BC846ALT1-D.pdf
+$ENDCMP
+#
+$CMP BC847_SOT23_v1
+F C:\Personal\PartsManagement\02_Datasheets\06 Transistors\DS_240000_BC846ALT1-D.pdf
+$ENDCMP
+#
+$CMP BSS84_SOT23
+F C:/Personal/PartsManagement/02_Datasheets/06 Transistors/DS_240001_BSS84LT1G.pdf
+$ENDCMP
+#
+$CMP FDN306P_SOT23
+F C:/Personal/PartsManagement/02_Datasheets/06 Transistors/DS_240003_FDN306P.pdf
+$ENDCMP
+#
+#End Doc Library

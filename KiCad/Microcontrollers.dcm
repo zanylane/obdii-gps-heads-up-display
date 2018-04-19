@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/20/2009 10:58:11 PM
+#
+$CMP DSPIC33FJ128MC802_SOIC28
+F C:/Personal/PartsManagement/02_Datasheets/08 Microcontrollers/DS_180002_dsPIC33FJ32MC302.pdf
+$ENDCMP
+#
+$CMP PIC18F2321_SSOP28
+F C:/Personal/PartsManagement/02_Datasheets/08 Microcontrollers/DS_180000_PIC18F2221.pdf
+$ENDCMP
+#
+$CMP PIC18LF2321_SSOP28
+F C:/Personal/PartsManagement/02_Datasheets/08 Microcontrollers/DS_180000_PIC18F2221.pdf
+$ENDCMP
+#
+$CMP PIC32MX440F512H_TQFP64
+F C:/Personal/PartsManagement/02_Datasheets/08 Microcontrollers/DS_180003_PIC32MX3XX_4XX Family.pdf
+$ENDCMP
+#
+#End Doc Library

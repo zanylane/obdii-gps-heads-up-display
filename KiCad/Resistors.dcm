@@ -1,0 +1,297 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/16/2009 3:34:59 PM
+#
+$CMP 0R_0402_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 0R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150044_MULTICOMP_0Ohm_Jumper.pdf
+$ENDCMP
+#
+$CMP 0R_0603_5%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150003_Rohm_MCR03_Series.pdf
+$ENDCMP
+#
+$CMP 1000k_0.25W_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150016_100K.pdf
+$ENDCMP
+#
+$CMP 100k_0.25W_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150016_100K.pdf
+$ENDCMP
+#
+$CMP 100k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 100R_0402_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150049_Yageo-RC0402_series.pdf
+$ENDCMP
+#
+$CMP 100R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 10k_0402_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 10k_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 10k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150003_Rohm_MCR03_Series.pdf
+$ENDCMP
+#
+$CMP 10k_0603_1%_v1
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 11k_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 11k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 150mR_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150042_Thick Film Chip Resistors Low Resistance Type.pdf
+$ENDCMP
+#
+$CMP 15mR_4527_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150028_Vishay_power_metal_strip_resistors.pdf
+$ENDCMP
+#
+$CMP 1k_0.25W_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150017_1K.pdf
+$ENDCMP
+#
+$CMP 1k_0402_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 1k_0402_1%_v1
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 1k_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 1k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 20k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 22R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 23k2_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 23k2_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 270R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 2k2_0805_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 2k_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 30k_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 30mR_5W_5%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150030_SEI-MPR_Series.pdf
+$ENDCMP
+#
+$CMP 330R_0805_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 499R_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 499R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 49R9_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 4k02_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 4k7_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 4k7_0805_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 4k99_0603_0.1%
+D Resistance
+K R DEV
+F C:\Personal\PartsManagement\02_Datasheets\01 Resistors\DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 56R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 68R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 7k68_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 82R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 910R_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150010_MULTICOMP_MC_1percent_Series.pdf
+$ENDCMP
+#
+$CMP 9k09_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 9k1_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP 9k53_0603_0.1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150021_Susumu_ultra_precision_series.pdf
+$ENDCMP
+#
+$CMP 9k53_0603_1%
+D Resistance
+K R DEV
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150000_Vishay_thick_film_chip_resistors.pdf
+$ENDCMP
+#
+$CMP POT_10K_V1
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150015_POT_10K.pdf
+$ENDCMP
+#
+$CMP POT_10K_V2
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150036_POT_10K_CTSElectro.pdf
+$ENDCMP
+#
+$CMP POT_10K_V3
+F C:/Personal/PartsManagement/02_Datasheets/01 Resistors/DS_150037_POT_10K_Vishay.pdf
+$ENDCMP
+#
+#End Doc Library

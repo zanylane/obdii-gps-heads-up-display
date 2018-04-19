@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/19/2009 9:02:48 PM
+#
+$CMP BA33BC0T
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200016_BAxxBC0_Series.pdf
+$ENDCMP
+#
+$CMP BA50BC0T
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200016_BAxxBC0_Series.pdf
+$ENDCMP
+#
+$CMP CC6-2405SF-E
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200011_TDK_CC6-xF-E.pdf
+$ENDCMP
+#
+$CMP CC6-2412SF-E
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200011_TDK_CC6-xF-E.pdf
+$ENDCMP
+#
+$CMP LP8345CDT
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200009_NS_LP8345.pdf
+$ENDCMP
+#
+$CMP MCP1700_3V3_SOT23
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200000_MCP1700_3V3_SOT23.pdf
+$ENDCMP
+#
+$CMP MCP1700_3V3_SOT23_v1
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200000_MCP1700_3V3_SOT23.pdf
+$ENDCMP
+#
+$CMP MCP1702T_3V3_SOT89
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200014_MCP1702.pdf
+$ENDCMP
+#
+$CMP MCP1702T_5V_SOT89
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200014_MCP1702.pdf
+$ENDCMP
+#
+$CMP NCP3063
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200013_NCP3063.pdf
+$ENDCMP
+#
+$CMP VWRBS2-D24-S5-SIP
+F C:/Personal/PartsManagement/02_Datasheets/05 Voltage regulators/DS_200008_CUI_DC_DC_Converter_VWRBS2_Series.pdf
+$ENDCMP
+#
+#End Doc Library
